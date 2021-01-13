@@ -1,0 +1,3 @@
+plolty
+streamlit
+pickle
