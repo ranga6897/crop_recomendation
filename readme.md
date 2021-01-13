@@ -9,6 +9,7 @@ Data is taken from [kaggle](https://www.kaggle.com/atharvaingle/crop-recommendat
 1. EDA - checked the rangees of different crops.
 2. Feature Selection - Using KBeast, Pearson correlation coefficient.
 3. Model Building :
+
 | Model |Test Weighted F1 |Test accuracy|
 |------|------|------|
 | LogisticRegression  | 0.97 | 0.97 |
